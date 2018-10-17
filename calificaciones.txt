@@ -1,0 +1,11 @@
+Jose
+Fisica A
+2
+70
+90
+Pedro
+Calculo
+3
+85
+60
+100
