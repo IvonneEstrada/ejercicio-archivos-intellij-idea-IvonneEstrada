@@ -1,11 +1,24 @@
 Jose
-Fisica A
 2
+Fisica A
+3
 70
 90
-Pedro
-Calculo
+Calculo A
 3
 85
 60
 100
+Luis
+3
+Diseño
+50
+90
+Algebra
+1
+100
+Fundamentos de diseño
+3
+60
+80
+60
